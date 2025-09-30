@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\carlos meneses\documents\programación univalle\laboratorio #1 - poo\main.cpp
+	<iostream>
+
+1759197590 source:c:\users\carlos meneses\documents\programación univalle\laboratorio #1 - poo\src\producto.cpp
+	"Producto.h"
+
+1759197733 c:\users\carlos meneses\documents\programación univalle\laboratorio #1 - poo\include\producto.h
+	<iostream>
+
+1759195408 source:c:\users\carlos meneses\documents\programación univalle\laboratorio #1 - poo\src\tienda.cpp
+	"Tienda.h"
+
+1759197673 c:\users\carlos meneses\documents\programación univalle\laboratorio #1 - poo\include\tienda.h
+	"Producto.h"
+	<iostream>
+
