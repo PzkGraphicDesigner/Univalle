@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\jorge navia\desktop\tiendaproductospoo\main.cpp
+	<iostream>
+
+1759084026 source:c:\users\jorge navia\desktop\tiendaproductospoo\src\producto.cpp
+	"Producto.h"
+
+1759084033 c:\users\jorge navia\desktop\tiendaproductospoo\include\producto.h
+	<iostream>
+
