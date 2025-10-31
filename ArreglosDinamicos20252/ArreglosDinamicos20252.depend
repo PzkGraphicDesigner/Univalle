@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1761315451 source:c:\users\lenovo\desktop\proyectosdecodeblock\arreglosdinamicos20252\main.cpp
+	"Principal.h"
+
+1761318616 source:c:\users\lenovo\desktop\proyectosdecodeblock\arreglosdinamicos20252\src\matrizdeletras.cpp
+	"MatrizDeLetras.h"
+
+1761317321 c:\users\lenovo\desktop\proyectosdecodeblock\arreglosdinamicos20252\include\matrizdeletras.h
+	<string>
+	<time.h>
+
+1761315747 source:c:\users\lenovo\desktop\proyectosdecodeblock\arreglosdinamicos20252\src\principal.cpp
+	"Principal.h"
+
+1761313858 c:\users\lenovo\desktop\proyectosdecodeblock\arreglosdinamicos20252\include\principal.h
+	"MatrizDeLetras.h"
+	<iostream>
+	<cctype>
+
